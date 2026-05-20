@@ -1,16 +1,22 @@
-# min-dark-2026 README
+# Min Dark 2026
 
-## Working with Markdown
+Min Dark 2026 is a Visual Studio Code theme that mixes VS Code's Dark 2026 with [Min Theme](https://github.com/miguelsolorio/min-theme) by [Miguel Solorio](https://github.com/miguelsolorio).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+VS Code's Dark 2026 UI looks polished, but the token colors can feel harder to distinguish during long editing sessions. This theme keeps that modern dark surface language while shifting syntax colors toward clearer, more readable contrast.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open the **Extensions** sidebar in VS Code.
+2. Search for [Min Dark 2026](https://marketplace.visualstudio.com/items?itemName=shamahdev.min-dark-2026-theme).
+3. Click `Install`.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## How to Use
 
-**Enjoy!**
+1. Open the **Command Palette** with <kbd>Ctrl+Shift+P</kbd> or <kbd>Shift+⌘+P</kbd>.
+2. Select `Preferences: Color Theme`.
+3. Choose `Min Dark 2026`.
+
+## Credits (Original Theme)
+
+- [Min Theme](https://github.com/miguelsolorio/min-theme) by [Miguel Solorio](https://github.com/miguelsolorio)
+- Dark 2026 by Visual Studio Code
