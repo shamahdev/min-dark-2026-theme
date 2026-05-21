@@ -4,13 +4,14 @@
   "publisher": "shamahdev",
   "description": "Mix of VS Code's Dark 2026 with Min Theme by Miguel Solorio.",
   "repository": "github:shamahdev/min-dark-2026-theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.25.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -19,5 +20,9 @@
         "path": "./themes/Min Dark 2026-color-theme.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
   }
 }
